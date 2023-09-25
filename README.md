@@ -1,4 +1,4 @@
-<h1> Bienvenido al README </h1>
+<h1> BIENVENIDO </h1>
 
 <img src="img/billy.png" alt="billy" width="200" height="200"/><br/>
 
